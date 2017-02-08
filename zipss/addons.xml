@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addons>
 <addon id="plugin.video.gypo"
        name="gypo tv streams"
        version="1.2.1"
@@ -38,3 +38,4 @@
     <platform>all</platform>
   </extension>
 </addon>
+<addons>
